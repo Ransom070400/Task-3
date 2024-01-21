@@ -55,6 +55,7 @@ class Product {
    It's block-scoped, meaning it's limited to the block, statement, or expression where it's declared.
    'const' is like 'let,' but with a superpower..
     Once a variable is declared with 'const,' you can't change its value.
+    */
 
   
   
